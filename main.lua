@@ -1,2 +1,2 @@
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/thatsn00pster/Auto-Join/refs/heads/main/Chicken.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/thatsn00pster/Auto-Join/refs/heads/main/Chicken2.lua"))()
